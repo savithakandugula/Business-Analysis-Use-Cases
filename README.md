@@ -46,7 +46,7 @@ With the increasing demand for personal finance management tools, adding an **Ex
 - *As a user,* I want to see visual reports of my expenses so that I can analyze my spending habits.
 
 ### **8. Use Case Diagram**  
-*(Insert Use Case Diagram illustrating interactions between the user and the system, including actions like "Add Expense," "View Reports," "Set Budget," and "Receive Alerts.")*
+![Use Case Diagram](expense_tracker_use_case_diagram.png)
 
 ### **9. Assumptions & Constraints**  
 - The feature will be integrated into the existing mobile banking app infrastructure.
