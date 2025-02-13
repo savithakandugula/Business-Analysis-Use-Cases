@@ -1,6 +1,6 @@
-# **Product Feature Analysis Use Case**
+# **Business Analysis Case Study: Expense Tracker Feature for Mobile Banking App**
 
-## **Title:** *Defining Requirements for a Mobile Banking App's Expense Tracker Feature*
+## **Title:** *Defining Requirements of Expense Tracker Feature for a Mobile Banking App*
 
 ### **1. Introduction**  
 With the increasing demand for personal finance management tools, adding an **Expense Tracker Feature** to the mobile banking app aims to enhance customer engagement and financial literacy. This use case outlines the process of defining business and functional requirements to support the development of this feature.
